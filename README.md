@@ -71,8 +71,9 @@ National Ranking: A bar chart ranking the countries by their average mortality r
 Comparing Doctor Density and Per Capita Income against health outcomes.
 
 
+<img width="1300" height="499" alt="Dashboard 1" src="https://github.com/user-attachments/assets/0d4fcd89-c618-4ff5-ac3f-6773d01737d9" />
 
-
+[View the Interactive Dashboard Here](https://public.tableau.com/views/GlobalHealthAndEconomicImpactAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 TOOLS USED
 
